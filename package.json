@@ -1,0 +1,18 @@
+{
+  "name": "koa-upgrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^1.0.6",
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {
+	"koa": "^1.2.0"
+  }
+}
