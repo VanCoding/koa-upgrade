@@ -1,7 +1,7 @@
 koa-upgrade
 ===========
 
-This module allows your koa app to handle websockets as well.
+Allow koa to handle websockets like regular requests
 
 - use any middleware (including routers, compression, etc.) for normal & upgrade requests
 - upgrade to a websocket at any point in your app
